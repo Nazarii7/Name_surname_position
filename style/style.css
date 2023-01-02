@@ -5,9 +5,8 @@
 }
 
 body {
-  padding: 20px;
   width: 100%;
-  background-color: #f5f7fa;
+  background-color: transparent;
   display: flex;
   justify-content: center;
   align-items: center;
